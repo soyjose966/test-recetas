@@ -1,0 +1,14 @@
+body{
+        background-image: url("../imagen/shutterstock_615149807.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-attachment:fixed;
+    }
+
+    .nav-justified .nav-item {
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        text-align: right;
+      }
